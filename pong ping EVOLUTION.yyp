@@ -21,7 +21,6 @@
     {"id":{"name":"snd_boing6","path":"sounds/snd_boing6/snd_boing6.yy",},"order":5,},
     {"id":{"name":"funcoes","path":"scripts/funcoes/funcoes.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
-    {"id":{"name":"obj_bola2","path":"objects/obj_bola2/obj_bola2.yy",},"order":12,},
     {"id":{"name":"spr_raquete_p2","path":"sprites/spr_raquete_p2/spr_raquete_p2.yy",},"order":1,},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"order":1,},
     {"id":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},"order":7,},
