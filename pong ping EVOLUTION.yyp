@@ -12,7 +12,6 @@
     {"id":{"name":"snd_musica","path":"sounds/snd_musica/snd_musica.yy",},"order":6,},
     {"id":{"name":"spr_parede_invisivel","path":"sprites/spr_parede_invisivel/spr_parede_invisivel.yy",},"order":3,},
     {"id":{"name":"snd_gol2","path":"sounds/snd_gol2/snd_gol2.yy",},"order":8,},
-    {"id":{"name":"obj_dash","path":"objects/obj_dash/obj_dash.yy",},"order":10,},
     {"id":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"order":6,},
     {"id":{"name":"snd_boing1","path":"sounds/snd_boing1/snd_boing1.yy",},"order":0,},
     {"id":{"name":"snd_boing2","path":"sounds/snd_boing2/snd_boing2.yy",},"order":1,},
